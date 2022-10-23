@@ -1,0 +1,24 @@
+{
+  "name": "kafka-nodejs-starter",
+  "version": "1.0.0",
+  "description": "A simple Express.js API to which sends and receives messages using Apache Kafka.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rishabh570/kafka-nodejs-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rishabh570/kafka-nodejs-starter/issues"
+  },
+  "homepage": "https://github.com/Rishabh570/kafka-nodejs-starter#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
